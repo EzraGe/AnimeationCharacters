@@ -1,0 +1,18 @@
+{
+    "data" : {
+        "profile" : {
+            "id" : 0,
+            "img_url" : "https://timgsa.baidu.com/timg?image&quality=80&size=b9999_10000&sec=1567440464421&di=4b61fcaac4b99d3cd68025fdb2e2ebf2&imgtype=0&src=http%3A%2F%2Fb-ssl.duitang.com%2Fuploads%2Fitem%2F201702%2F25%2F20170225121033_f4wsy.jpeg",
+            "name" : "福山 潤",
+            "name_eng" : "Fukuyama Jun",
+            "nickname" : ["润润"],
+            "sex" : 1,
+            "birthday" : "1978.11.26",
+            "constellation" : "Sagittarius",
+            "blood_type" : "A",
+            "company" : "BLACK SHIP",
+            "introduction" : "Jun Fukuyama (福山 潤 Fukuyama Jun, born November 26, 1978) is a Japanese voice actor and singer best known for his roles Lelouch (Code Geass), Koro-sensei (Assassination Classroom), Ichimatsu (Osomatsu-san), Misaki Yata (K), Kimihiro Watanuki (xxxHOLiC), Joker (Persona 5) and several other leading roles.",
+            "characterList" : []
+        }
+    }
+}

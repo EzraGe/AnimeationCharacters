@@ -1,0 +1,122 @@
+{
+    "data" : {
+        "profile" : {
+            "id" : 1,
+            "img_url" : "http://img.1688wan.com/allimgs/image/2016/07/02/20160702150840_725.jpg",
+            "story_name" : "Death Note",
+            "introduction" : "The story follows Light Yagami, a teen genius who stumbles across a mysterious otherworldly notebook: the \"Death Note\", which belonged to the Shinigami Ryuk, and grants the user the supernatural ability to kill anyone whose name is written in its pages. The series centers around Light's subsequent attempts to use the Death Note to carry out a world-wide massacre of those whom he deems morally unworthy of life to change the world into a utopian society without crime using the alias of a god-like vigilante named \"Kira\" (\"キラ\", the Japanese transliteration of the English word: killer) and the subsequent efforts of an elite task-force of law enforcement officers, consisting of members of the Japanese police force led by L, an enigmatic international detective whose past is shrouded in mystery, to apprehend him and end his reign of terror.",
+            "types" : ["cliffhang", "reasoning"],
+            "time" : "2006.10",
+            "score" : 9.1,
+            "season_info" : "2 seasons, 37 episodes",
+            
+            "cast" : [
+                {
+                    "character" : {
+                        "id" : "4",
+                        "name" : "Light Yagami",
+                        "avator" : "http://b-ssl.duitang.com/uploads/item/201612/08/20161208192154_TCAeE.thumb.700_0.jpeg",
+                        "cv" : "宮野 真守"
+                    },
+                    "voice_actor" : {
+                        "id" : "4",
+                        "name" : "宮野 真守",
+                        "avator" : "http://i0.hdslb.com/bfs/face/fa39b11fede5997d996709b71865c637d732c3d4.jpg"
+                    }
+                },
+                {
+                    "character" : {
+                        "id" : "5",
+                        "name" : "L·Lawliet",
+                        "avator" : "http://images6.fanpop.com/image/photos/35700000/L-Lawliet-death-note-35773760-704-396.jpg",
+                        "cv" : "山口 勝平"
+                    },
+                    "voice_actor" : {
+                        "id" : "5",
+                        "name" : "山口 勝平",
+                        "avator" : "http://images.17173.com/2014/news/2014/05/21/mj0521aaa06s.jpg"
+                    }
+                },
+                {
+                    "character" : {
+                        "id" : "6",
+                        "name" : "Misa Amane",
+                        "avator" : "http://img3.imgtn.bdimg.com/it/u=641205713,163626298&fm=26&gp=0.jpg",
+                        "cv" : "平野绫"
+                    },
+                    "voice_actor" : {
+                        "id" : "6",
+                        "name" : "平野绫",
+                        "avator" : "http://uploads.5068.com/allimg/1801/78-1P102154344.jpg"
+                    }
+                },
+                {
+                    "character" : {
+                        "id" : "25",
+                        "name" : "Mikami Teru",
+                        "avator" : "http://ww1.sinaimg.cn/bmiddle/887790fagw1et1h5uyj70j2069069gll.jpg",
+                        "cv" : "松风雅也"
+                    },
+                    "voice_actor" : {
+                        "id" : "25",
+                        "name" : "松风雅也",
+                        "avator" : "https://gss3.bdstatic.com/-Po3dSag_xI4khGkpoWK1HF6hhy/baike/c0%3Dbaike92%2C5%2C5%2C92%2C30/sign=b039bb54851001e95a311c5dd9671089/aa18972bd40735faf538bc0496510fb30e240846.jpg"
+                    }
+                },
+                {
+                    "character" : {
+                        "id" : "26",
+                        "name" : "Kiyomi Takada",
+                        "avator" : "https://gss3.bdstatic.com/-Po3dSag_xI4khGkpoWK1HF6hhy/baike/c0%3Dbaike80%2C5%2C5%2C80%2C26/sign=85fe9ba27ed98d1062d904634056d36b/34fae6cd7b899e51a490374a40a7d933c8950d55.jpg",
+                        "cv" : "坂本 真綾"
+                    },
+                    "voice_actor" : {
+                        "id" : "26",
+                        "name" : "坂本 真綾",
+                        "avator" : "http://n1.itc.cn/img8/wb/recom/2016/04/25/146158649796095423.JPEG"
+                    }
+                },
+                {
+                    "character" : {
+                        "id" : "27",
+                        "name" : "Yagami Soichiro",
+                        "avator" : "http://a2.att.hudong.com/62/09/01300544057215148421093079547_s.jpg",
+                        "cv" : "内田直哉"
+                    },
+                    "voice_actor" : {
+                        "id" : "27",
+                        "name" : "内田直哉",
+                        "avator" : "https://gss2.bdstatic.com/9fo3dSag_xI4khGkpoWK1HF6hhy/baike/c0%3Dbaike80%2C5%2C5%2C80%2C26/sign=034db432c3cec3fd9f33af27b7e1bf5a/58ee3d6d55fbb2fbf94911ec4f4a20a44723dcea.jpg"
+                    }
+                },
+                {
+                    "character" : {
+                        "id" : "28",
+                        "name" : "Nate River",
+                        "avator" : "https://timgsa.baidu.com/timg?image&quality=80&size=b9999_10000&sec=1567663377386&di=ea7f844f579d75f555147efd39509c68&imgtype=0&src=http%3A%2F%2Fimages6.fanpop.com%2Fimage%2Fphotos%2F39900000%2FDeath-Note-Near-Nate-River-aquamarine6663-39985824-640-360.jpg",
+                        "cv" : "日高法子"
+                    },
+                    "voice_actor" : {
+                        "id" : "28",
+                        "name" : "日高法子",
+                        "avator" : "https://gss0.bdstatic.com/94o3dSag_xI4khGkpoWK1HF6hhy/baike/c0%3Dbaike80%2C5%2C5%2C80%2C26/sign=e150de5fb6fd5266b3263446ca71fc4e/f31fbe096b63f6240bfbebb78744ebf81b4ca3e4.jpg"
+                    }
+                },
+                {
+                    "character" : {
+                        "id" : "29",
+                        "name" : "Mihael Keehl",
+                        "avator" : "http://p2.qhimg.com/t014ac9bdf025268b6d.jpg",
+                        "cv" : "佐々木望"
+                    },
+                    "voice_actor" : {
+                        "id" : "29",
+                        "name" : "佐々木望",
+                        "avator" : "https://gss3.bdstatic.com/7Po3dSag_xI4khGkpoWK1HF6hhy/baike/c0%3Dbaike72%2C5%2C5%2C72%2C24/sign=23ec72421d950a7b613846966bb809bc/e4dde71190ef76c6c80bd25f9d16fdfaae5167ec.jpg"
+                    }
+                }
+            ]
+        }
+    }
+}
+

@@ -1,0 +1,36 @@
+{
+    "data" : {
+        "profile" : {
+            "id" : 2,
+            "img_url" : "http://d-paper.i4.cn/max/2017/10/23/15/1508742236146_116482.jpg",
+            "name" : "枢木スザク",
+            "name_eng" : "Suzaku Kururugi",
+            "nickname" : ["knight of seven","白色骑士","白色死神"],
+            "sex" : 1,
+            "height" : "176cm",
+            "weight" : "58kg",
+            "birthday" : "皇历2000.07.10",
+            "constellation" : "Cancer",
+            "blood_type" : "O",
+            "story" : "コードギアス 反逆のルルーシュ",
+            "introduction" : "Suzaku Kururugi, born on July 10, 2000 a.t.b., is the son of Japan's last prime minister, Genbu Kururugi. His existence was kept a secret from the public until after the war. Suzaku met Lelouch vi Britannia and his sister Nunnally vi Britannia when they moved to the Kururugi residence as a diplomatic peace trade. At first, Suzaku despised Lelouch because he thought that he was a prince who didn't care about anyone. As time passed by, however, he came to know Lelouch better, and they soon became best friends. They become separated when Britannia invaded Japan, but are reunited in the Shinjuku Ghetto.\nWhen Britannia began its invasion of Japan, Suzaku was mortified by the violence and his father's belief that resisting to the bitter end was preferable to surrender. Unable to change his father's mind, Suzaku murdered him during a heated exchange. The incident was covered up and Suzaku's life was spared, while the government was thrown into disarray and surrendered to Britannia. Lelouch believes that, had Genbu lived, Japan would have likely been torn apart by war once the other major powers decided to intervene. His guilt over the incident causes Suzaku to constantly place himself on the frontlines in the hope of atoning for his actions with his death. It also inspires his belief that the ends achieved with immoral means are meaningless, since he created peace through murder. However, after firing the F.L.E.I.J.A. warhead, under the command of Lelouch's Geass, he abandons this belief and decides to achieve his goals regardless of the means. This causes him to finally join Lelouch.",
+            "character" : {
+                "id" : 2,
+                "name" : "枢木スザク",
+                "avator" : "http://img3.duitang.com/uploads/item/201305/25/20130525225123_siMwi.thumb.700_0.jpeg",
+                "cv" : "櫻井 孝宏"
+            },
+            "voice_actor" : {
+                "id" : 2,
+                "name" : "櫻井 孝宏",
+                "avator" : "http://img2.imgtn.bdimg.com/it/u=2451295502,3792469451&fm=214&gp=0.jpg"
+            },
+            "lines" : [
+                {
+                    "id" : 7,
+                    "line" : "ルルーシュ！"
+                }
+            ]
+        }
+    }
+}

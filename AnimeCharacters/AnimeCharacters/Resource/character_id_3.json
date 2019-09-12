@@ -1,0 +1,40 @@
+{
+    "data" : {
+        "profile" : {
+            "id" : 3,
+            "img_url" : "https://timgsa.baidu.com/timg?image&quality=80&size=b9999_10000&sec=1568089741796&di=42d84272f248f41133c82411e62c2497&imgtype=0&src=http%3A%2F%2Fb-ssl.duitang.com%2Fuploads%2Fitem%2F201504%2F08%2F20150408H2617_hMkEV.jpeg",
+            "name" : "カレン ．シュタットフェルト ",
+            "name_eng" : "Kallen Stadtfeld",
+            "nickname" : ["紅月カレン"],
+            "sex" : 0,
+            "height" : "173cm",
+            "weight" : "55kg",
+            "birthday" : "皇历2000.03.29",
+            "constellation" : "Aries",
+            "blood_type" : "B",
+            "story" : "コードギアス 反逆のルルーシュ",
+            "introduction" : "Kallen Kouzuki is half Britannian, half Japanese, but believes herself to be a Japanese person at heart and prefers to be known by her mother's maiden name, Kouzuki. Her father is Britannian and her mother is an Eleven; her father comes from a prestigious Britannian family, which Kallen benefits from. She attends the Ashford Academy, where she later becomes a member of its student council and is one of its most outstanding students. Her brother, Naoto Kouzuki (紅月ナオト Kōzuki Naoto), with whom she had a deep connection, was a former leader of her resistance cell before his death.\nBoth Kallen's stepmother, a Britannian, and biological mother live with her in the same house, but her biological mother is employed as a maid and is often mistreated by both her stepmother and Kallen herself. After her biological mother is arrested for using Refrain (a fictional drug which lets people think they're reliving the past), Kallen changes her views and decides to fight against the Britannian Empire not only for her brother, but to fulfill her new wish for a world in which she can live happily with her biological mother.\nKallen leads a double life as a normal Britannian student and as a member of a guerrilla resistance group against Britannia, which is later reformed into the Order of the Black Knights by Lelouch Vi Britannia. In school, she portrays herself as a weak-bodied high school student who obeys all of the formalities, and goes by her Britannian name of Stadtfeld. However, her personality changes into a very strong-willed and forceful one when she acts as a resistance fighter.\nAs a running gag, Kallen ends up nude or immodestly dressed in front of other people on numerous occasions: Lelouch sees her naked after she accidentally pulls back a shower curtain in the third episode, Suzaku sees her bathing under a waterfall when they are stranded on Kamine Island, she is forced to dress in an immodest bunny costume at the start of the second season (to plant a tracking device on Lelouch), and she walks in on a meeting between C.C. and the Chinese ambassadors wearing only a towel when intending to complain about the previous situation to C.C. (claiming that the operation would've gone faster if C.C. was wearing the outfit).\nIn an interview reported by the anime magazine Newtype USA, seiyu Ami Koshimizu talked about the difficulty of voicing Kallen because of the double life that her character leads. Certain aspects of Kallen's character such as her girlish naivete and competitiveness made it easy for the voice actress to relate, even to the point of admitting that in some ways they act very much the same.",
+            "character" : {
+                "id" : 3,
+                "name" : "C.C.",
+                "avator" : "http://uploads.5068.com/allimg/111123/113F341P-4.jpg",
+                "cv" : "小清水 亜美"
+            },
+            "voice_actor" : {
+                "id" : 3,
+                "name" : "小清水 亜美",
+                "avator" : "http://pic.baike.soso.com/p/20130704/20130704162040-391650393.jpg"
+            },
+            "lines" : [
+                {
+                    "id" : 8,
+                    "line" : "黒の騎士団！"
+                },
+                {
+                    "id" : 9,
+                    "line" : "こいつさえ倒せば"
+                }
+            ]
+        }
+    }
+}

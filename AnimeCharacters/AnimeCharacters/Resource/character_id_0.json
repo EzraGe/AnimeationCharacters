@@ -1,0 +1,48 @@
+{
+    "data" : {
+        "profile" : {
+            "id" : 0,
+            "img_url" : "http://b-ssl.duitang.com/uploads/item/201501/04/20150104191142_nswHF.png",
+            "name" : "ルルーシュ・ヴィ・ブリタニア",
+            "name_eng" : "Lelouch·vi·Britannia",
+            "nickname" : ["ZERO","L.L.","Lelouch Lamperouge"],
+            "sex" : 1,
+            "height" : "178cm",
+            "weight" : "54kg",
+            "birthday" : "皇历2000.12.05",
+            "constellation" : "Sagittarius",
+            "blood_type" : "A",
+            "story" : "コードギアス 反逆のルルーシュ",
+            "introduction" : "Lelouch Vi Britannia (ルルーシュ・ランペルージ Rurūshu Ranperūji) is the protagonist of Code Geass. He is originally born as Lelouch vi Britannia (ルルーシュ・ヴィ・ブリタニア Rurūshu vi Buritania), the Eleventh Prince of the Britannian Imperial Family and seventeenth in line for the throne. His father is the Britannian Emperor, Charles zi Britannia, and his mother was Marianne vi Britannia. For questioning his father's cold apathy of his mother's assassination and his sister Nunnally's disablement, Lelouch and Nunnally were sent to Japan as political hostages. Taken into the residence of the Prime Minister of Japan, Lelouch and Nunnally soon formed a strong friendship with the Prime Minister's son, Suzaku Kururugi. When Britannia invaded Japan, he went into hiding with his sister, taking refuge with the Ashford family. Seven years later, he discovers C.C., who grants him a Geass that allows him to command any person to follow his subsequent order. Seeking to build a peaceful world for his sister even though all she wants is to be with him, he begins to support revolutionary socialism despite it being his father's exact beliefs, pursuing the destruction of Britannia under the guise of his masked alter-ego, Zero. As Zero, he creates a military force known as the Black Knights, formed from the members of a group originally known as the Japanese Resistance.",
+            "character" : {
+                "id" : 0,
+                "name" : "Lelouch·vi·Britannia",
+                "avator" : "http://www.005.tv/uploads/allimg/161113/6-1611131I42L00.jpg",
+                "cv" : "福山潤"
+            },
+            "voice_actor" : {
+                "id" : 0,
+                "name" : "福山潤",
+                "avator" : "http://upload.mnw.cn/2016/1221/1482283660389.jpg"
+            },
+            "lines" : [
+                {
+                    "id" : 0,
+                    "line" : "ルルーシュ・ヴィ・ブリタニアが命じる 贵様たち 死ね"
+                },
+                {
+                    "id" : 1,
+                    "line" : "どうした、撃たないのか、相手は学生だぞ。それとも気ついたか。撃っていいのは、撃たれる覚悟がある奴だけだ"
+                },
+                {
+                    "id" : 2,
+                    "line" : "間違っていたのは俺じゃない、この世界の方だ！"
+                },
+                {
+                    "id" : 3,
+                    "line" : "力ある者よ、我を恐れよ！力なき者よ、我を求めよ！世界は我々黒の騎士団が・・・裁く"
+                }
+            ]
+        }
+    }
+}

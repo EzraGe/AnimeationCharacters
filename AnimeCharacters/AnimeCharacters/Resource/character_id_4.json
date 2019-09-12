@@ -1,0 +1,36 @@
+{
+    "data" : {
+        "profile" : {
+            "id" : 4,
+            "img_url" : "http://cdn.duitang.com/uploads/item/201304/03/20130403233413_tEHye.thumb.700_0.jpeg",
+            "name" : "やがみ ライト",
+            "name_eng" : "Yagami Light",
+            "nickname" : ["Killer"],
+            "sex" : 1,
+            "height" : "179cm",
+            "weight" : "54kg",
+            "birthday" : "1986.02.28",
+            "constellation" : "Pisces",
+            "blood_type" : "A",
+            "story" : "Death Note",
+            "introduction" : "Light Yagami was born on February 28, 1986.He is portrayed as an attractive teen genius and a model student with a polite, reserved and gentleman-like personality, who is popular among his peers and teachers and is known for being the class topper. At the beginning of the story, Light is a student in his last year of high school; he later attends To-Oh University (東応大学 Tōō Daigaku). His father, Soichiro Yagami, is the chief of the National Police Agency and the head of the task force hunting for \"Kira\", the name the public has given to the perpetrator of a string of inexplicable murders around the world. His mother, Sachiko, is a housewife. His younger sister, Sayu, acts as a cheerful, less academic foil.\nLight initially becomes horrified at the Death Note's abilities after he tests the notebook on two criminals out of curiosity, but eventually convinces himself that the criminal's resulting deaths were justified. Light soon becomes driven to lead a personal crusade to rid the world of crime by using the notebook. While his agenda originates with good intentions,Light eventually finds himself killing law enforcement and even innocents in order to elude capture. His ethics are utilitarian, justifying the most extreme acts in service of his cause. He is also driven by a need for victory, which motivates most of his cruelest acts. Combined with the power of the Death Note, his hubris and genius-level intellect convince him that only he can save the world.\nEventually a small task force of Japanese police officers, including Light's father, under the direction of the eccentric genius detective L begin to close in on Light. Although he suspects Light is Kira, L allows him to collaborate with the police on the case. This begins a game of cat and mouse between the two, with Light trying to learn L's real name so he can kill him, and L trying to get Light to expose himself so that he can arrest him. Because the actions of Misa Amane, a fervent Kira supporter and fellow Death Note owner, nearly implicates Light, he becomes compelled to temporarily relinquish ownership of his notebook and subsequently loses his memories of using the Death Note. It is during this time that Light reverts to his original persona: a caring, empathetic individual unwilling to manipulate others or justify acts of murder. After Light regains ownership of his notebook and his memories, he manipulates Misa's Shinigami Rem into killing L. Light then assumes the \"L\" persona and continues his charade of searching for Kira with the task force while carrying out the killings himself with help from Misa.\nOver four years later, Light is able to garner most of the world's support, reaching the point where his followers have begun to worship Kira as a literal deity. However, it is around this time that two of L's protégés, Mello and Near, begin their investigation against Kira. Near heads the SPK (Special Provision for Kira), an American investigation team composed of CIA and FBI agents, while Mello works with the Mafia. Although Mello dies working separate from Near, his actions lead Teru Mikami, a man selected by Light to kill criminals using another Death Note, to make a mistake that results in Light's capture by Near, the SPK and Japanese police. Seeing that Light has finally lost, he is killed when Ryuk writes his name in his own Death Note, just as the Shinigami had warned when they first met.",
+            "character" : {
+                "id" : 4,
+                "name" : "やがみ ライト",
+                "avator" : "http://b-ssl.duitang.com/uploads/item/201612/08/20161208192154_TCAeE.thumb.700_0.jpeg",
+                "cv" : "宮野 真守"
+            },
+            "voice_actor" : {
+                "id" : 4,
+                "name" : "宮野 真守",
+                "avator" : "http://i0.hdslb.com/bfs/face/fa39b11fede5997d996709b71865c637d732c3d4.jpg"
+            },
+            "lines" : [
+                {
+                    "id" : 10,
+                    "line" : "ははは・・・そうだ、僕がキラだ"
+                }
+            ]
+        }
+    }
+}
