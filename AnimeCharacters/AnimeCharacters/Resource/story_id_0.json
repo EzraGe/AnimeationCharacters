@@ -1,0 +1,136 @@
+{
+    "data" : {
+        "profile" : {
+            "id" : 0,
+            "img_url" : "https://timgsa.baidu.com/timg?image&quality=80&size=b9999_10000&sec=1566794403610&di=8705b08b825b0d4866101ea2e93d11ee&imgtype=0&src=http%3A%2F%2Fww2.sinaimg.cn%2Flarge%2F7044e956gw1erwybovwrkj215o1mo1kx.jpg",
+            "story_name" : "Code Geass: Lelouch of the Rebellion",
+            "introduction" : "In an alternative timeline, the world is divided into three superpowers: the Holy Britannian Empire (the Americas; also called Britannia), the Chinese Federation (Asia), and the European Union (Europe and Africa; previously known as the Euro-Universe, also known as Europa United in Akito the Exiled). The story takes place after the Holy Britannian Empire's conquest of Japan on August 10, 2010 a.t.b., by means of Britannia's newest weapon, the \"Autonomous Armored Knight\", or \"Knightmare Frame\". In turn, Britannia effectively strips Japan and its citizens of all rights and freedoms and renames the country Area 11 with its citizens referred to as Elevens.\nLelouch vi Britannia is an exiled Britannian prince, son of Emperor Charles zi Britannia and his royal consort Marianne vi Britannia. Lelouch has a sister, Nunnally vi Britannia. Marianne was brutally murdered in the palace and Nunnally, who witnessed the murder of their mother, was so traumatized she lost both her sight and ability to walk. Lelouch is furious with his father, believing his father failed his mother and sister by turning a blind eye to their mother's death and failing to pursue their mother's killer.\nLelouch and Nunnally are sent as political pawns to Japan to lull the Japanese government into a false sense of security. After the siblings are sent to Japan, Japan is attacked and defeated by Britannia. With the ruins of Japan as a background, Lelouch vows to his Japanese friend Suzaku Kururugi that he will one day obliterate Britannia as an act of vengeance against his father.\nSeven years later, Lelouch (now going by the name Lelouch Lamperouge), is now a popular yet withdrawn student at Ashford Academy. Lelouch becomes involved in a terrorist attack and finds a mysterious girl called C.C. (C2), who saves Lelouch's life from the Britannian Royal Guard, by making a contract with him and granting Lelouch a power known as Geass (ギアス Giasu). This power, also known as the \"Power of Kings\" (王の力 Ō no Chikara), allows him to command anyone to do whatever he wants, including bending their will to live, fight, or die on his behalf. This power can affect an individual just once and only through direct eye contact. Lelouch decides to use his Geass to find his mother's murderers, destroy the Britannian Empire, and create a better world where Nunnally can live happily. In the process, Lelouch becomes Zero, a masked vigilante and the leader of the resistance movement known as The Black Knights, gaining popularity and support among the Japanese on his way towards the rebellion of Britannia. However, this does not come without a cost. Caught up in a conflict where he does not know the full extent of his powers, Lelouch will have to battle Suzaku, a resistance member named Kallen Stadtfeld, the strongest army in the world, his own half-siblings, and many others in a battle that will forever change the world.",
+            "types" : ["highschool", "robot", "fantasy"],
+            "time" : "2006.10",
+            "score" : 9.2,
+            "season_info" : "2 seasons, 50 episodes",
+            
+            "cast" : [
+                {
+                    "character" : {
+                        "id" : "0",
+                        "name" : "Lelouch·vi·Britannia",
+                        "avator" : "http://www.005.tv/uploads/allimg/161113/6-1611131I42L00.jpg",
+                        "cv" : "福山潤"
+                    },
+                    "voice_actor" : {
+                        "id" : "0",
+                        "name" : "福山潤",
+                        "avator" : "http://upload.mnw.cn/2016/1221/1482283660389.jpg"
+                    }
+                },
+                {
+                    "character" : {
+                        "id" : "1",
+                        "name" : "C.C",
+                        "avator" : "http://img1.imgtn.bdimg.com/it/u=3540086911,2127876834&fm=214&gp=0.jpg",
+                        "cv" : "野上 ゆかな"
+                    },
+                    "voice_actor" : {
+                        "id" : "1",
+                        "name" : "野上 ゆかな",
+                        "avator" : "http://f.hiphotos.baidu.com/baike/whfpf=683,683,0/sign=ba800228a5ec08fa265540e73fd30b55/34fae6cd7b899e5142309c8347a7d933c9950dee.jpg"
+                    }
+                },
+                {
+                    "character" : {
+                        "id" : "2",
+                        "name" : "枢木スザク",
+                        "avator" : "http://img3.duitang.com/uploads/item/201305/25/20130525225123_siMwi.thumb.700_0.jpeg",
+                        "cv" : "櫻井 孝宏"
+                    },
+                    "voice_actor" : {
+                        "id" : "2",
+                        "name" : "櫻井 孝宏",
+                        "avator" : "http://img2.imgtn.bdimg.com/it/u=2451295502,3792469451&fm=214&gp=0.jpg"
+                    }
+                },
+                {
+                    "character" : {
+                        "id" : "3",
+                        "name" : "Kallen Stadtfeld",
+                        "avator" : "http://uploads.5068.com/allimg/111123/113F341P-4.jpg",
+                        "cv" : "小清水 亜美"
+                    },
+                    "voice_actor" : {
+                        "id" : "3",
+                        "name" : "小清水 亜美",
+                        "avator" : "http://pic.baike.soso.com/p/20130704/20130704162040-391650393.jpg"
+                    }
+                },
+                {
+                    "character" : {
+                        "id" : "20",
+                        "name" : "Shirley Fenette",
+                        "avator" : "http://b.hiphotos.baidu.com/zhidao/wh%3D450%2C600/sign=e1021a3867380cd7e64baae994748102/1c950a7b02087bf45badb261f0d3572c10dfcff1.jpg",
+                        "cv" : "折笠 富美子"
+                    },
+                    "voice_actor" : {
+                        "id" : "20",
+                        "name" : "折笠 富美子",
+                        "avator" : "http://i5.qhimg.com/dmsmty/350_200_/t011f33c0e4857ca144.jpg"
+                    }
+                },
+                {
+                    "character" : {
+                        "id" : "21",
+                        "name" : "Euphemia Li Britannia",
+                        "avator" : "https://gss1.bdstatic.com/9vo3dSag_xI4khGkpoWK1HF6hhy/baike/c0%3Dbaike80%2C5%2C5%2C80%2C26/sign=47029d0eb8003af359b7d4325443ad39/bba1cd11728b4710c8c380cbcdcec3fdfd0323cc.jpg",
+                        "cv" : "南 央美"
+                    },
+                    "voice_actor" : {
+                        "id" : "21",
+                        "name" : "南 央美",
+                        "avator" : "http://i3.sinaimg.cn/gm/2014/0815/U1782P115DT20140815141947.png"
+                    }
+                },
+                {
+                    "character" : {
+                        "id" : "22",
+                        "name" : "Nunnally vi Britannia",
+                        "avator" : "http://b-ssl.duitang.com/uploads/item/20181/24/201812473639_VLhSa.thumb.700_0.jpeg",
+                        "cv" : "名塚 佳織"
+                    },
+                    "voice_actor" : {
+                        "id" : "22",
+                        "name" : "名塚 佳織",
+                        "avator" : "http://img2-ak.lst.fm/i/u/300x300/d6a3426c80ff455792d04bd6521efee7.jpg"
+                    }
+                },
+                {
+                    "character" : {
+                        "id" : "23",
+                        "name" : "Marianne vi Britannia",
+                        "avator" : "http://pic1.win4000.com/pic/b/59/62831539132.jpg",
+                        "cv" : "百々 麻子"
+                    },
+                    "voice_actor" : {
+                        "id" : "23",
+                        "name" : "百々 麻子",
+                        "avator" : "https://gss3.bdstatic.com/-Po3dSag_xI4khGkpoWK1HF6hhy/baike/c0%3Dbaike80%2C5%2C5%2C80%2C26/sign=84251821a0345982d187edc06d9d5ac8/ac6eddc451da81cb2a230f985f66d01608243199.jpg"
+                    }
+                },
+                {
+                    "character" : {
+                        "id" : "24",
+                        "name" : "Charles zi Britannia",
+                        "avator" : "http://i0.hdslb.com/bfs/article/7c631ef5b52caa420225805253625ba9eef60f4f.jpg",
+                        "cv" : "若本 規夫"
+                    },
+                    "voice_actor" : {
+                        "id" : "24",
+                        "name" : "若本 規夫",
+                        "avator" : "http://image.17173.com/bbs/v1/2011/05/17/1305633846567.jpg"
+                    }
+                }
+                
+            ]
+        }
+    }
+}
+

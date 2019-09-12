@@ -1,0 +1,18 @@
+{
+    "data" : {
+        "profile" : {
+            "id" : 1,
+            "img_url" : "http://imgsrc.baidu.com/forum/pic/item/e5fa383fb80e7bec2df73207212eb9389a506b26.jpg",
+            "name" : "野上 ゆかな",
+            "name_eng" : "Yukana Nogami",
+            "nickname" : ["由加奈"],
+            "sex" : 0,
+            "birthday" : "1975.01.06",
+            "constellation" : "Capricornus",
+            "blood_type" : "O",
+            "company" : "Sigma Seven",
+            "introduction" : "Yukana Nogami (野上 ゆかな Nogami Yukana, born January 6, 1975), who goes by her mononymous stage name Yukana (ゆかな), is a Japanese voice actress and singer affiliated with Sigma Seven. Her major roles include Azuki in Azuki-chan, Yuri Tanima in Wedding Peach, Meiling Li in Cardcaptor Sakura, Tessa in Full Metal Panic, Honoka Yukishiro (Cure White) in Futari wa Pretty Cure, Ulrike in Kyo Kara Maoh!, Yumiko Tomi in Fafner in the Azure, C.C. in Code Geass, Cecilia Alcott in Infinite Stratos, Kale in Dragon Ball Super and Kanna in Inuyasha. In tokusatsu, she voices Mezool in Kamen Rider OOO. In video games, she is the voice of Tear Grants in Tales of the Abyss and Ai Nanasaki in Amagami SS.",
+            "characterList" : []
+        }
+    }
+}

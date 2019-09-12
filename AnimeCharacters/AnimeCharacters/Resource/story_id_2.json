@@ -1,0 +1,44 @@
+{
+    "data" : {
+        "profile" : {
+            "id" : 2,
+            "img_url" : "http://d-paper.i4.cn/max/2018/04/03/14/1522738169739_805909.JPG",
+            "story_name" : "Teasing Master Takagi-san",
+            "introduction" : "Teasing Master Takagi-san (からかい上手の高木さん Karakai Jōzu no Takagi-san, lit. ・\"Good at Teasing, Miss Takagi\") is a Japanese manga series by Sōichirō Yamamoto. The series features the daily life of Takagi, who loves to tease her classmate Nishikata, and Nishikata's failed attempts to get back at her.",
+            "types" : ["highschool", "love", "daily life"],
+            "time" : "2018.01",
+            "score" : 9.0,
+            "season_info" : "20 episodes + OVA",
+            
+            "cast" : [
+                {
+                    "character" : {
+                        "id" : "7",
+                        "name" : "高木さん",
+                        "avator" : "http://dingyue.nosdn.127.net/Cszhx0DjC7y2QzXmYhh1uI8evuLgHsRjE1iCzlu==s5we1507720353676compressflag.jpg",
+                        "cv" : "高橋 李依"
+                    },
+                    "voice_actor" : {
+                        "id" : "7",
+                        "name" : "高橋 李依",
+                        "avator" : "http://i0.hdslb.com/bfs/article/6d01ec26a667ec6dd59b58b3c7b817022b55be21.jpg"
+                    }
+                },
+                {
+                    "character" : {
+                        "id" : "8",
+                        "name" : "西片",
+                        "avator" : "https://timgsa.baidu.com/timg?image&quality=80&size=b9999_10000&sec=1566758167647&di=04d3e38dca42bc2deca9136cc6e343bb&imgtype=0&src=http%3A%2F%2Fb-ssl.duitang.com%2Fuploads%2Fitem%2F201804%2F07%2F20180407100734_vdAQr.jpeg",
+                        "cv" : "梶裕贵"
+                    },
+                    "voice_actor" : {
+                        "id" : "8",
+                        "name" : "梶裕贵",
+                        "avator" : "http://singerimg.kugou.com/uploadpic/softhead/400/20150716/20150716121533301476.jpg"
+                    }
+                }
+            ]
+        }
+    }
+}
+

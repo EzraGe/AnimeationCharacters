@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document type="com.apple.InterfaceBuilder3.CocoaTouch.Storyboard.XIB" version="3.0" toolsVersion="14490.70" targetRuntime="iOS.CocoaTouch" propertyAccessControl="none" useAutolayout="YES" useTraitCollections="YES" useSafeAreas="YES" colorMatched="YES" initialViewController="fEi-Xu-VmE">
+    <device id="retina6_1" orientation="portrait">
+        <adaptation id="fullscreen"/>
+    </device>
+    <dependencies>
+        <deployment identifier="iOS"/>
+        <plugIn identifier="com.apple.InterfaceBuilder.IBCocoaTouchPlugin" version="14490.49"/>
+        <capability name="Safe area layout guides" minToolsVersion="9.0"/>
+        <capability name="documents saved in the Xcode 8 format" minToolsVersion="8.0"/>
+    </dependencies>
+    <scenes>
+        <!--Item-->
+        <scene sceneID="Ox6-UW-ovM">
+            <objects>
+                <viewController id="7NK-Hv-Q4f" customClass="FeedController" customModule="AnimeCharacters" customModuleProvider="target" sceneMemberID="viewController">
+                    <view key="view" contentMode="scaleToFill" id="5ep-EA-ATI">
+                        <rect key="frame" x="0.0" y="0.0" width="414" height="896"/>
+                        <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
+                        <color key="backgroundColor" white="1" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
+                        <viewLayoutGuide key="safeArea" id="oQK-1M-Fyj"/>
+                    </view>
+                    <tabBarItem key="tabBarItem" title="Item" id="a7f-NW-WZ7"/>
+                </viewController>
+                <placeholder placeholderIdentifier="IBFirstResponder" id="aS8-LD-jBK" userLabel="First Responder" sceneMemberID="firstResponder"/>
+            </objects>
+            <point key="canvasLocation" x="-149" y="-769"/>
+        </scene>
+        <!--Item-->
+        <scene sceneID="7RH-NS-sBU">
+            <objects>
+                <viewController id="fdl-DC-qWb" customClass="FavouriteController" customModule="AnimeCharacters" customModuleProvider="target" sceneMemberID="viewController">
+                    <view key="view" contentMode="scaleToFill" id="V3z-qe-dhB">
+                        <rect key="frame" x="0.0" y="0.0" width="414" height="896"/>
+                        <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
+                        <color key="backgroundColor" white="1" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
+                        <viewLayoutGuide key="safeArea" id="qJx-XE-aZf"/>
+                    </view>
+                    <tabBarItem key="tabBarItem" title="Item" id="8kL-At-XBv"/>
+                    <navigationItem key="navigationItem" id="Whx-Qk-hx4"/>
+                </viewController>
+                <placeholder placeholderIdentifier="IBFirstResponder" id="PFc-JF-Pa2" userLabel="First Responder" sceneMemberID="firstResponder"/>
+            </objects>
+            <point key="canvasLocation" x="-149" y="-94"/>
+        </scene>
+        <!--Navigation Controller-->
+        <scene sceneID="xMU-l1-cRW">
+            <objects>
+                <navigationController id="fEi-Xu-VmE" customClass="ACNavigationController" customModule="AnimeCharacters" customModuleProvider="target" sceneMemberID="viewController">
+                    <navigationBar key="navigationBar" contentMode="scaleToFill" insetsLayoutMarginsFromSafeArea="NO" id="2YA-He-PbU">
+                        <rect key="frame" x="0.0" y="44" width="414" height="44"/>
+                        <autoresizingMask key="autoresizingMask"/>
+                    </navigationBar>
+                    <connections>
+                        <segue destination="Ff4-Jd-ZX2" kind="relationship" relationship="rootViewController" id="OYS-vU-7KI"/>
+                    </connections>
+                </navigationController>
+                <placeholder placeholderIdentifier="IBFirstResponder" id="uhR-8n-rdl" userLabel="First Responder" sceneMemberID="firstResponder"/>
+            </objects>
+            <point key="canvasLocation" x="-2162" y="-536"/>
+        </scene>
+        <!--Home Tabbar Controller-->
+        <scene sceneID="1Ox-p3-l7V">
+            <objects>
+                <tabBarController id="Ff4-Jd-ZX2" customClass="ACHomeTabbarController" customModule="AnimeCharacters" customModuleProvider="target" sceneMemberID="viewController">
+                    <navigationItem key="navigationItem" id="l2c-7N-wTd"/>
+                    <tabBar key="tabBar" contentMode="scaleToFill" insetsLayoutMarginsFromSafeArea="NO" id="Cvn-MI-HYX">
+                        <rect key="frame" x="0.0" y="0.0" width="414" height="49"/>
+                        <autoresizingMask key="autoresizingMask"/>
+                        <color key="backgroundColor" white="0.0" alpha="0.0" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
+                    </tabBar>
+                    <connections>
+                        <segue destination="7NK-Hv-Q4f" kind="relationship" relationship="viewControllers" id="TCf-Vb-26B"/>
+                        <segue destination="fdl-DC-qWb" kind="relationship" relationship="viewControllers" id="qFe-Yt-WeU"/>
+                    </connections>
+                </tabBarController>
+                <placeholder placeholderIdentifier="IBFirstResponder" id="Kv0-um-NKd" userLabel="First Responder" sceneMemberID="firstResponder"/>
+            </objects>
+            <point key="canvasLocation" x="-1277" y="-536"/>
+        </scene>
+    </scenes>
+</document>

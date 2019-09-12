@@ -1,0 +1,44 @@
+{
+    "data" : {
+        "profile" : {
+            "id" : 1,
+            "img_url" : "https://timgsa.baidu.com/timg?image&quality=80&size=b9999_10000&sec=1568018318829&di=05ae11055cacc358232d7a06a1c5b584&imgtype=0&src=http%3A%2F%2Fb-ssl.duitang.com%2Fuploads%2Fitem%2F201501%2F04%2F20150104190856_BcPzF.png",
+            "name" : "C.C.",
+            "name_eng" : "C.C.",
+            "nickname" : ["魔女","c女王","披萨女"],
+            "sex" : 0,
+            "height" : "168cm",
+            "weight" : "46.5kg",
+            "birthday" : "????.??.??",
+            "constellation" : "?",
+            "blood_type" : "?",
+            "story" : "コードギアス 反逆のルルーシュ",
+            "introduction" : "C.C. (シー・ツー Shī Tsū) was created as a fictional character for the Code Geass: Lelouch of the Rebellion anime series by Sunrise, who first appeared in 2006 with the premier of the franchise. Her Japanese voice actress is Yukana Nogami,and she is voiced by Kate Higgins in the English dub.C.C. is an immortal girl who appears as a young adult.C.C. is a pseudonym, and her real name is never shared with the audience.\nC.C. has long green hair and gold eyes. She wears a variety of outfits, which change depending on the time and situation. In the first season she mainly wears a white straitjacket bondage suit,which the Britannian Empire had used to restrain her for tests prior to the series.According to the 2007 Code Geass audio drama, C.C. wears the bondage suit because she feels she isn't free, and is a slave to the world.Her main outfit in the second season is a modified Black Knights uniform, which is long, black, and has a red sash. It has gloves and white undergarments.She has worn Lelouch's own clothes, including his Zero outfit, to serve as a decoy and save him from situations.\nShe has spiritual powers, and academic Dani Cavallaro refers to C.C. as the \"Witch of Fate\" of the Code Geass series.C.C. has the power of the \"Code\", given to her by a nun hundreds of years prior to Code Geass. The Geass power originally allowed her to make anyone around her love her, before leading to her being immortal and immune to both age and conventional injury.She has survived being burned at the stake, beheaded by a guillotine, and placed in an iron maiden.When she uses her power, a sigil glows on her body.When left alone, she sometimes appears to talk to herself and have discussions with those who aren't there.This is later revealed to be telepathic communication, Lelouch's deceased mother Marianne being among the recipients.C.C. can also give people the power of Geass or can cancel their Geass,and sense when other people have it. In close proximity, C.C. can give people hallucinations of dark or chaotic images, to lead people into a panic.\nShe is a competent leader and operations planner, and can fight with mech, with guns, or hand to hand. In the Picture Dramas, during a discussion with Kallen, she states that she has the ability to do almost anything but chooses to let others do it. Calm and collected, she is strongwilled and pays little mind to inconveniencing others, and at times is with-holding of information. With a dry sense of humor, she has a nihilistic outlook on the world. Scornful of her immortality, she is lonely and isolated, although she shows fondness for the main protagonist Lelouch Lamperouge.\nC.C. has a strong liking for pizza, at times risking the exposure of her identity to obtain it.",
+            "character" : {
+                "id" : 1,
+                "name" : "C.C.",
+                "avator" : "http://img1.imgtn.bdimg.com/it/u=3540086911,2127876834&fm=214&gp=0.jpg",
+                "cv" : "野上 ゆかな"
+            },
+            "voice_actor" : {
+                "id" : 1,
+                "name" : "野上 ゆかな",
+                "avator" : "http://f.hiphotos.baidu.com/baike/whfpf=683,683,0/sign=ba800228a5ec08fa265540e73fd30b55/34fae6cd7b899e5142309c8347a7d933c9950dee.jpg"
+            },
+            "lines" : [
+                {
+                    "id" : 4,
+                    "line" : "お前には生きるための理由があるらしい"
+                },
+                {
+                    "id" : 5,
+                    "line" : "力があれば生きられるか？これは契約・・・力をあげる代わりに私の願いを一つだけ叶えてもらう、契約すればお前は人の世に生きながら人とは違う理で生きることになる・・・異なる摂理、異なる時間、異なる命。王の力はお前を孤独にする、その覚悟があるのなら"
+                },
+                {
+                    "id" : 6,
+                    "line" : "ルルーシュ、雪がどうして白いか知っているか？自分がどんな色だったか忘れてしまったからさ"
+                }
+            ]
+        }
+    }
+}
